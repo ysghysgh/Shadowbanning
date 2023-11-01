@@ -1,5 +1,5 @@
 # Shadowbanning
-This repo provides the Python code (shadowban.py and in scripts/) and network data (in data/) to produce the simulation results in the paper \textit{Shaping Opinions in Social Networks with Shadow Banning}. It solves for shadow banning controls using linear programming, and simulates resulting opinoins using the Runge-Kutta method. It is also an \textit{opinion dynamics simulator} when one models continuous time opinion dynamics using differential equations.
+This repo provides the Python code (shadowban.py and in scripts/) and network data (in data/) to produce the simulation results in the paper $Shaping Opinions in Social Networks with Shadow Banning$. It solves for shadow banning controls using linear programming, and simulates resulting opinoins using the Runge-Kutta method. It is also an $opinion dynamics simulator$ when one models continuous time opinion dynamics using differential equations.
 
 To use this package, enter in command line by following below sequence of command-line arguments.
 
